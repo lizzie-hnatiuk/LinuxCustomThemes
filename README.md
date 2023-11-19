@@ -1,2 +1,2 @@
 # LinuxCustomThemes
-Repo to store customized linux themes (Ubuntu 22.04)
+Repo to store personal customized Linux themes (Ubuntu 20.04 & 22.04).
